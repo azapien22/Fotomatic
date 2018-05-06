@@ -1,0 +1,1 @@
+A Responsive website called Fotomatic.
